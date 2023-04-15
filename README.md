@@ -10,11 +10,9 @@ List of Maths Resources for ZKPs
 
 [Introduction to ZKPs](https://extropy-io.medium.com/a-gentintroduction-to-zero-knowledge-proofs-ca5cb1a69b5a)
 
-[Moon Math Book](https://s3.eu-central-1.amazonaws.com/up.raindrop.io/raindrop/files/509/530/571/main_moonmath.pdf)
-
 [Jargon Decoder](https://nmohnblatt.github.io/zk-jargon-decoder)
 
-[Elliptic Curves Animatwed](https://curves.xargs.org/)
+[Elliptic Curves Animated](https://curves.xargs.org/)
 
 [Cryptologie - Crypto and Security Blog](https://www.cryptologie.net/)
 
