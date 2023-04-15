@@ -29,3 +29,4 @@ KZG Commitment [Scheme](https://www.youtube.com/watch?v=iwOovhLU8U4)
 
 Inner product [arguments](https://www.youtube.com/watch?v=RaEs5mnXIhY&list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq&index=18)
 
+[ZK Podcast Whiteboard sessions](https://zeroknowledge.fm/introducing-the-zk-whiteboard-sessions/)
