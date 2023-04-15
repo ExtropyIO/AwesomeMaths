@@ -18,6 +18,7 @@ List of Maths Resources for ZKPs
 
 [Introduction to commitment schemes](https://blockdoc.substack.com/p/an-introduction-to-commitment-schemes)
 
+[Pairings](https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html)
 
 ## Videos
 
