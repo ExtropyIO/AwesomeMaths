@@ -22,6 +22,8 @@ List of Maths Resources for ZKPs
 
 ## Videos
 
+Risc Zero [Study Club](https://www.youtube.com/playlist?list=PLcPzhUaCxlCjdhONxEYZ1dgKjZh3ZvPtl) 
+
 Intro to [SNARKS](https://www.youtube.com/watch?v=h-94UhJLeck)
 
 Intro to [STARKS](https://www.youtube.com/watch?v=9VuZvdxFZQo)
